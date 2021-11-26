@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: kanishkpachauri.netlify.app
+Token: 9e1b1c0ab72369f1c6b7c41924550c7f7180ae398cbd0481e53fcedee1074a30
